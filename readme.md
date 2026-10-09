@@ -2,6 +2,8 @@
 
 Script simples que funciona como extensão do chrome para renomear arquivos com o Nome/Número de um contato de whatsapp web.
 
+<img src="pewview.gif" />
+
 # Como instalar
 
 1. baixe a versão zipada do repositório;
